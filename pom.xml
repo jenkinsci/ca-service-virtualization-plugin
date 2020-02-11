@@ -226,7 +226,7 @@
   <repositories>
     <repository>
       <id>CA internal</id>
-      <url>http://isl-dsdc.ca.com/artifactory/maven-release-local</url>
+      <url>https://isl-dsdc.ca.com/artifactory/maven-release-local</url>
     </repository>
     <repository>
       <id>CA Bintray</id>
